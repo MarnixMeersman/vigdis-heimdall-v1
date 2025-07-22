@@ -4,7 +4,6 @@ This repository contains a small prototype for controlling an ILDA laser scanner
 It currently provides a simple curses-based demo that renders a filled square which can be moved around
 with the arrow keys.  The code is written for Python 3.
 
-![A8D33956-87FE-446C-82DD-4CDC1825B417_1_102_o](https://github.com/user-attachments/assets/58c748dd-dc6e-4425-ac6e-dd56cc2a68ce)
 
 
 ## Structure
@@ -56,4 +55,3 @@ objects in real time.  Planned tasks include:
 6. **Performance** – profile latency and optimise for smooth tracking.
 7. **Testing** – unit tests and integration tests for the tracking pipeline.
 
-Contributions and ideas are welcome!
